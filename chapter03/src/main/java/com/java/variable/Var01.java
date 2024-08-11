@@ -1,4 +1,4 @@
-package com.java.var01;
+package com.java.variable;
 
 public class Var01 {
     public static void main(String[] args) {
