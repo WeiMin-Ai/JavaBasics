@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b73e619-db19-4d15-b530-974c4141a932" name="Changes" comment="first commit">
+    <list default="true" id="7b73e619-db19-4d15-b530-974c4141a932" name="Changes" comment="Java基础第一章">
       <change afterPath="$PROJECT_DIR$/../chapter01/src/main/java/com/java/basics01/ChangeChar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chapter01/src/main/java/com/java/basics01/ChangeCharExer01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chapter01/src/main/java/com/java/basics01/Hello.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chapter01/src/main/java/com/java/basics02/Comment01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chapter01/src/main/java/com/java/basics02/Comment02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter01/src/main/java/com/java/homework/HomeWork01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/basics01/ChangeChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/basics01/ChangeCharExer01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/basics01/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/basics01/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/basics01/Tiger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/basics02/Comment01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/basics02/Comment02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter01/com/java/homework/HomeWork01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter01/chapter01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter01/chapter01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter01/src/Main.java" beforeDir="false" />
     </list>
@@ -61,6 +76,7 @@
     "Application.ChangeCharExer01.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.HomeWork01.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Tiger.executor": "Run",
     "Application.com.java.basics.ChangeCharExer01.executor": "Run",
@@ -183,7 +199,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723387960958</updated>
-      <workItem from="1723387963625" duration="2940000" />
+      <workItem from="1723387963625" duration="3244000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -201,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723388430709</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java基础第一章">
+      <option name="closed" value="true" />
+      <created>1723391258461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723391258461</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +234,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Java基础第一章" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java基础第一章" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
